@@ -1,7 +1,7 @@
 ### Hi there 👋
-https://accounts.spotify.com/authorize?client_id=SPOTIFY_CLIENT_ID&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
-
-**benhelalwajdi/benhelalwajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ben helal wajdi** is a ✨ Mobile Application developer ✨.
+![](https://komarev.com/ghpvc/?username=benhelalwajdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benhelalwajdi)](https://github.com/benhelalwajdi/github-readme-stats)
 
 Here are some ideas to get you started:
 
