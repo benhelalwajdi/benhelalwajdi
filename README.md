@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![benhelalwajdi GitHub stats](https://github-readme-stats.vercel.app/api?username=benhelalwajdi)](https://github.com/benhelalwajdi/github-readme-stats)
-<!--
+https://accounts.spotify.com/authorize?client_id=SPOTIFY_CLIENT_ID&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+
 **benhelalwajdi/benhelalwajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
