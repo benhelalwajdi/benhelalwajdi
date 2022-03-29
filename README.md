@@ -60,7 +60,6 @@ I'm an experienced typescript programmer and have good literacy with most common
   
 ![ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benhelalwajdi&show_icons=true&theme=radical)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benhelalwajdi)</br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![ben](https://komarev.com/ghpvc/?username=benhelalwajdi)
 
 
