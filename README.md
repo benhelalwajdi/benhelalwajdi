@@ -1,9 +1,9 @@
 # Hi, I'm Ben Helal Wajdi! 
 <p>
   <em>
-      Mobile Application Developer at ✨
-    <a href="https://faculdademetropolitana.edu.br/">
-      <img align="top" src="http://www.faculdademetropolitana.edu.br/wp-content/uploads/2019/05/logo-header1.png" alt="faculdademetropolitana"          height=25 />
+      Fullstack Developer at ✨
+    <a href="http://www.serdia.com.br/site/">
+      <img align="top" src="http://www.serdia.com.br/site/wp-content/themes/serdia/images/logotipo_serdia_1.png" alt="faculdademetropolitana"          height=25 />
     </a>✨
     </br>
     Software Engineering Student at ✨
