@@ -12,7 +12,6 @@
     </a>✨
   </em>
 </p>
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/benhelalwajdi)
 
 [!["Support me : "](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/benhelalwaj)
 
