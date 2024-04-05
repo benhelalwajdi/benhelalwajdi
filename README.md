@@ -18,7 +18,7 @@
 </br>
 <p align="left">
   <a href="https://github.com/benhelalwajdi" target="blank"> 
-     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Github: benhelalwajdi" height="40" width="40" />
+     <img align="center" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="Github: benhelalwajdi" height="40" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/ben.hw.3/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/betoma/betoma/master/assets/facebook.svg" alt="Facebook: /benhelalwajdi" height="40"       width="40" />
